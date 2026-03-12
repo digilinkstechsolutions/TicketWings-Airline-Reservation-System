@@ -161,16 +161,16 @@ Generate Receipt
 
 # 🧠 OOP Concepts Implemented
 
--Classes & Objects
--Inheritance
--Polymorphism
--Encapsulation
+- Classes & Objects
+- Inheritance
+- Polymorphism
+- Encapsulation
 
 Access Modifiers:
 
--private → confidential user data
--protected → passenger travel data
--public → booking & receipt information
+- private → confidential user data
+- protected → passenger travel data
+- public → booking & receipt information
 
 Arrays are used to manage airline and flight data.
 
